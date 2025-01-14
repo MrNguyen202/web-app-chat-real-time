@@ -1,2 +1,3 @@
 /zalo-app/node_modules
 /zalo-web/node_modules
+*.local
